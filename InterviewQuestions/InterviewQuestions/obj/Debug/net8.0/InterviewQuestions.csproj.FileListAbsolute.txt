@@ -1,0 +1,15 @@
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\bin\Debug\net8.0\InterviewQuestions.exe
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\bin\Debug\net8.0\InterviewQuestions.deps.json
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\bin\Debug\net8.0\InterviewQuestions.runtimeconfig.json
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\bin\Debug\net8.0\InterviewQuestions.dll
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\bin\Debug\net8.0\InterviewQuestions.pdb
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.AssemblyInfoInputs.cache
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.AssemblyInfo.cs
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.csproj.CoreCompileInputs.cache
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.sourcelink.json
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.dll
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\refint\InterviewQuestions.dll
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.pdb
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\InterviewQuestions.genruntimeconfig.cache
+D:\infenion\internship-entry-assessment\InterviewQuestions\InterviewQuestions\obj\Debug\net8.0\ref\InterviewQuestions.dll
